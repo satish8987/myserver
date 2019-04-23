@@ -6,3 +6,5 @@ Ld/kLCm/
 
 sd,/m;d
 c,/,/
+ for infosysy
+ for info
